@@ -1,0 +1,20 @@
+# MacOS
+.DS_Store
+
+# Emacs
+*~
+init.el
+#\#*\#
+*.bak
+#.cache/
+#.last-package-update-day
+#.lsp-session-v1
+#auto-save-list/
+custom.el
+elpa/
+history
+#init.el
+places
+#recentf
+#transient/
+#tree-sitter/
